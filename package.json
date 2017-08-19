@@ -1,0 +1,24 @@
+{
+  "name": "neeo-skyq",
+  "version": "1.0.0",
+  "description": "Neeo SDK Sky Q TCP Control",
+  "main": "index.js",
+  "dependencies": {
+    "neeo-sdk": "^0.43.7",
+    "sky-remote": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-hartley/neeo-skyq.git"
+  },
+  "author": "Bruce Hartley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-hartley/neeo-skyq/issues"
+  },
+  "homepage": "https://github.com/b-hartley/neeo-skyq#readme"
+}
